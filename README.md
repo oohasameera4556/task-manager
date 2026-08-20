@@ -60,3 +60,19 @@ Enter your choice: 1
 Enter task title: Learn Python
 
 Task added successfully: Learn Python
+
+## Features
+
+- Add a task
+- List tasks
+- Mark a task as completed
+- Delete a task
+- Exit
+
+## How to Run
+
+Make sure Python 3.x is installed.
+
+From the project root, run:
+
+python src/main.py
