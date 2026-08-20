@@ -2,15 +2,15 @@ from task_manager import TaskManager
 
 
 def display_menu():
-    print("\n==========================")
-    print("      TASK MANAGER")
-    print("==========================")
+    print("\n" + "=" * 35)
+    print("        PYTHON TASK MANAGER")
+    print("=" * 35)
     print("1. Add a task")
     print("2. List tasks")
     print("3. Mark a task as completed")
     print("4. Delete a task")
     print("5. Exit")
-    print("==========================")
+    print("=" * 35)
 
 
 def get_task_id():
